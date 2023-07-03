@@ -1,0 +1,86 @@
+{
+ "count": 5,
+ "current": {
+  "count": 5,
+  "dependencies": [
+   {
+    "group": "com.github.ben-manes.versions",
+    "name": "com.github.ben-manes.versions.gradle.plugin",
+    "version": "0.47.0",
+    "projectUrl": null,
+    "userReason": null
+   },
+   {
+    "group": "org.apache.commons",
+    "name": "commons-lang3",
+    "version": "3.12.0",
+    "projectUrl": "https://commons.apache.org/proper/commons-lang/",
+    "userReason": null
+   },
+   {
+    "group": "org.junit.jupiter",
+    "name": "junit-jupiter-api",
+    "version": "5.10.0-M1",
+    "projectUrl": "https://junit.org/junit5/",
+    "userReason": null
+   },
+   {
+    "group": "org.junit.jupiter",
+    "name": "junit-jupiter-engine",
+    "version": "5.10.0-M1",
+    "projectUrl": "https://junit.org/junit5/",
+    "userReason": null
+   },
+   {
+    "group": "se.patrikerdes.use-latest-versions",
+    "name": "se.patrikerdes.use-latest-versions.gradle.plugin",
+    "version": "0.2.18",
+    "projectUrl": null,
+    "userReason": null
+   }
+  ]
+ },
+ "outdated": {
+  "count": 0,
+  "dependencies": []
+ },
+ "exceeded": {
+  "count": 0,
+  "dependencies": []
+ },
+ "undeclared": {
+  "count": 0,
+  "dependencies": []
+ },
+ "unresolved": {
+  "count": 0,
+  "dependencies": []
+ },
+ "gradle": {
+  "enabled": true,
+  "running": {
+   "isFailure": false,
+   "isUpdateAvailable": false,
+   "reason": "",
+   "version": "7.5.1"
+  },
+  "current": {
+   "isFailure": false,
+   "isUpdateAvailable": true,
+   "reason": "",
+   "version": "8.2"
+  },
+  "releaseCandidate": {
+   "isFailure": false,
+   "isUpdateAvailable": false,
+   "reason": "update check succeeded: no release available",
+   "version": ""
+  },
+  "nightly": {
+   "isFailure": false,
+   "isUpdateAvailable": false,
+   "reason": "update check disabled",
+   "version": ""
+  }
+ }
+}
